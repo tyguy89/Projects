@@ -4,3 +4,6 @@
 [submodule "python_projects"]
 	path = python_projects
 	url = https://github.com/tyguy89/python_projects.git
+[submodule "JavaScriptp5jsProjects"]
+	path = JavaScriptp5jsProjects
+	url = https://github.com/tyguy89/JavaScriptp5jsProjects.git
